@@ -31,6 +31,14 @@ git commit -m "<Describe what you changed, without the angle brackets>"
 git push --set-upstream origin <branch_name>
 ```
 5. You may repeat steps 3 and 4 as many times as necessary; note that if you have already pushed at least once you can simply do `git push` after committing.
+6. Open a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) on GitHub so that your changes can be reviewed and merged into the main branch.
 
 For more information about Git, please refer to [here](https://www.baeldung.com/ops/git-guide).
+
+## Miscellaneous WorkAdventure guides
+* https://docs.workadventu.re/admin/
+* https://docs.workadventu.re/admin/integrations/google-calendar
+* https://docs.workadventu.re/admin/custom-wokas/
+* https://docs.workadventu.re/blog/gpt-bot
+* https://docs.workadventu.re/admin/quests
 
